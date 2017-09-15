@@ -1,7 +1,7 @@
 # Cookbook Name:: ssm
 # Recipe:: default
 # Copyright 2017, REANCLOUD
-case node['platform_family']
+case node['platform']
 when 'ubuntu'
   execute 'apt-get update' do
     command 'apt-get update -y'
