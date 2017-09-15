@@ -1,0 +1,7 @@
+DEPENDENCIES
+  ssm
+    path: .
+    metadata: true
+
+GRAPH
+  ssm (0.1.0)

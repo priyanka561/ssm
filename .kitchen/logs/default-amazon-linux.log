@@ -1,0 +1,3 @@
+I, [2017-09-01T08:54:47.033790 #27105]  INFO -- default-amazon-linux: -----> Destroying <default-amazon-linux>...
+I, [2017-09-01T08:54:47.153025 #27105]  INFO -- default-amazon-linux: EC2 instance <i-0f2ad2cf25b03692f> destroyed.
+I, [2017-09-01T08:54:47.153786 #27105]  INFO -- default-amazon-linux: Finished destroying <default-amazon-linux> (0m0.12s).

@@ -1,0 +1,9 @@
+I, [2017-09-01T09:06:43.974603 #27164]  INFO -- default-ubuntu-1404: -----> Creating <default-ubuntu-1404>...
+I, [2017-09-01T09:06:43.975524 #27164]  INFO -- default-ubuntu-1404: Finished creating <default-ubuntu-1404> (0m0.00s).
+I, [2017-09-01T09:06:43.975680 #27164]  INFO -- default-ubuntu-1404: -----> Converging <default-ubuntu-1404>...
+I, [2017-09-01T09:06:43.976138 #27164]  INFO -- default-ubuntu-1404: Preparing files for transfer
+I, [2017-09-01T09:06:43.976289 #27164]  INFO -- default-ubuntu-1404: Preparing dna.json
+I, [2017-09-01T09:06:43.976562 #27164]  INFO -- default-ubuntu-1404: Resolving cookbook dependencies with Berkshelf 6.2.0...
+I, [2017-09-01T09:06:44.013461 #27164]  INFO -- default-ubuntu-1404: Removing non-cookbook files before transfer
+I, [2017-09-01T09:06:44.014736 #27164]  INFO -- default-ubuntu-1404: Preparing solo.rb
+I, [2017-09-01T09:06:59.043459 #27164]  INFO -- default-ubuntu-1404: [SSH] connection failed, retrying in 1 seconds (#<Net::SSH::ConnectionTimeout: Net::SSH::ConnectionTimeout>)
