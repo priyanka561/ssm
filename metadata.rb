@@ -18,4 +18,4 @@ chef_version '>= 12.1' if respond_to?(:chef_version)
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/ssm'
-dependson 'ssm_agent', '~> 0.1.0'
+depends 'ssm_agent', '~> 0.1.0'
